@@ -1,0 +1,10 @@
+1 3 ./src/1_min.bmp ./src/1.bmp 80
+1 3 ./src/2_min.bmp ./src/2.bmp 80
+1 3 ./src/3_min.bmp ./src/3.bmp 80
+1 3 ./src/4_min.bmp ./src/4.bmp 80
+1 2 ./src/5_min.bmp ./src/5.bmp 80
+1 3 ./src/6_min.bmp ./src/6.bmp 80
+0 3 ./src/7_min.bmp ./src/7.bmp 80
+1 1 ./src/8_min.bmp ./src/8.bmp 80
+0 3 ./src/9_min.bmp ./src/9.bmp 80
+0 3 ./src/10_min.bmp ./src/10.bmp 80
